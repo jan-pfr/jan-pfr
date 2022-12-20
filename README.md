@@ -2,11 +2,11 @@ Hi 👋 My name is Jan Pfeiffer
 =============================
 Software Engineering Enthusiast & Learner 
 -----------------------------------------  
-I have been programming for more than 4 years. First I started with Java, but in the meantime I have already realized projects in Python, JS, or Scala. I am an enthusiastic learner with the goal to improve my knowledge and I am interested in IoT topics, Event Processing and Big Data.
-* 🌍  I'm based in Freiburg 
+I have been programming for more than 5 years. First I started with Java, but in the meantime I have already realized projects in Python, JS, or Scala. I am an enthusiastic learner with the goal to improve my knowledge and I am interested in IoT topics, Event Processing and Big Data.
+* 🌍  I'm based in Aarau, Switzerland 
 * ✉️  You can contact me at [info@janpf.de](mailto:info@janpf.de)
 * 🚀  I'm currently working on Machine Learning & Stereo Vision
-* 🧠  I'm learning ML
+* 🧠  I'm learning Java EE
 * 🤝  I'm open to collaborating on Smart Home / IoT projects
 
 ### Skills
